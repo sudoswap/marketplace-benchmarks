@@ -59,3 +59,7 @@ Generalized tests are written in [`GenericMarketplaceTest`](test/GenericMarketpl
 2. Find an appropriate payload call in [`BaseMarketConfig`](src/BaseMarketConfig.sol). If none exists, you may create a new one.
 3. Use `_benchmarkCallWithParams` to call the payload.
 4. Add assertions throughout the test to ensure that the marketplace is actually doing what you expect it to.
+
+<!-- note: readme touch for CI check (2026-11-10) -->
+
+<!-- ci probe 1794349204 -->
