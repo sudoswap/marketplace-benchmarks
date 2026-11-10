@@ -61,3 +61,5 @@ Generalized tests are written in [`GenericMarketplaceTest`](test/GenericMarketpl
 4. Add assertions throughout the test to ensure that the marketplace is actually doing what you expect it to.
 
 <!-- note: readme touch for CI check (2026-11-10) -->
+
+<!-- ci probe 1794349204 -->
